@@ -7,3 +7,7 @@
 <p><img src="https://rukminim1.flixcart.com/image/832/832/learning-toy/h/t/f/diy-ecraft-arduino-uno-r3-original-imaefmesah8uz4rh.jpeg?q=70" alt="Resultado de imagem para Arduino UNO r3" width="334" height="234" /></p>
 <p>Potenciometro 10k</p>
 <p><img src="https://www.curtocircuito.com.br/pub/media/catalog/product/cache/ecd051e9670bd57df35c8f0b122d8aea/p/o/potenci_metro_linear_-_1k_-_l20_2__1.jpg" width="335" height="335" /></p>
+<p>Display lcd 16x2</p>
+<p><img src="https://uploads.filipeflop.com/2017/07/5LC01-3.jpg" alt="Resultado de imagem para display lcd 16x2" width="346" height="346" /></p>
+<p>Sensor de Dist&acirc;ncia Ultrass&ocirc;nico</p>
+<p><img src="https://uploads.filipeflop.com/2017/07/9SS01-2-600x600.jpg" alt="Resultado de imagem para Sensor de Dist&Atilde;&cent;ncia Ultrass&Atilde;&acute;nico" width="344" height="344" /></p>
