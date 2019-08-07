@@ -1,2 +1,2 @@
-# Sensor-de-distancia
+# Sensor de distancia
  
