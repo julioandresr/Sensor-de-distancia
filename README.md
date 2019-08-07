@@ -11,3 +11,5 @@
 <p><img src="https://uploads.filipeflop.com/2017/07/5LC01-3.jpg" alt="Resultado de imagem para display lcd 16x2" width="346" height="346" /></p>
 <p>Sensor de Dist&acirc;ncia Ultrass&ocirc;nico</p>
 <p><img src="https://uploads.filipeflop.com/2017/07/9SS01-2-600x600.jpg" alt="Resultado de imagem para Sensor de Dist&Atilde;&cent;ncia Ultrass&Atilde;&acute;nico" width="344" height="344" /></p>
+# Montagem 
+<p><img src="https://www.embarcados.com.br/wp-content/uploads/2018/06/image4.png" alt="Diagrama do projeto elaborado no Fritzing." width="344" height="289" /></p>
