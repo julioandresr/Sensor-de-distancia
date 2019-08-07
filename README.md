@@ -1,2 +1,4 @@
 # Sensor de distancia
  Um dos mais básicos e mais úteis sensores no desenvolvimento de projetos utilizando Arduino é o sensor ultrassônico. Ele é um sensor que permite que meçamos a distância entre uma superfície e o sensor. No caso, estou utilizando o modelo HC-SR04, o mais comum. Além do sensor ultrassônico, estarei utilizando um LCD.
+# Como funciona?
+ O sensor ultrassônico utiliza o mesmo princípio básico do sonar. Ele é composto, basicamente, por um emissor e um receptor de ondas. O emissor do sensor (trigger) emite ondas ultrassônicas que, ao colidirem com uma superfície, são refletidas de volta para o sensor, sendo captadas pelo receptor (echo). O sensor então calcula o tempo decorrido entre a emissão e a recepção dessas ondas. Então, sabendo a velocidade da onda, é possível calcular a distância entre o sensor e a superfície em questão.
